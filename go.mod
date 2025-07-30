@@ -1,4 +1,4 @@
-module github.com/Gambitious/Utilities
+module github.com/gambitious/utilities
 
 go 1.24.1
 
